@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    let registrationSubtitle = "Hello there!"
     let registrationTitle = "Registration"
     
     override func viewDidLoad() {

@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    let repeatCount = 10
+    let repeatCount = 20
     let numberOfLogins = 0;
     let b = 2
     

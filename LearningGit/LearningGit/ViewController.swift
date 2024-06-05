@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
     let repeatCount = 10
+    let numberOfLogins = 0;
+    
     override func viewDidLoad() {
         super.viewDidLoad()
     }

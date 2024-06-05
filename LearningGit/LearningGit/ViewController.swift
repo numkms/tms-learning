@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let registrationTitle = "Registration"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
     }

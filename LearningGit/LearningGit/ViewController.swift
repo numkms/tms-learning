@@ -10,6 +10,7 @@ import UIKit
 class ViewController: UIViewController {
     let repeatCount = 10
     let numberOfLogins = 0;
+    let b = 2
     
     override func viewDidLoad() {
         super.viewDidLoad()
